@@ -1,4 +1,10 @@
 
+
+function getInputValue(){
+    
+}
+
+
 // deposite event handler
 
 document.getElementById('deposite-btn').addEventListener('click',function(){
